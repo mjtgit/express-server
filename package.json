@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "使用express搭建本地服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo(亚军)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
